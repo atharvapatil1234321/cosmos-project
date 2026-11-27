@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS – Explore the Universe",
+  "description": "Interactive astronomy and space exploration platform powered by real NASA imagery and verified scientific datasets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
